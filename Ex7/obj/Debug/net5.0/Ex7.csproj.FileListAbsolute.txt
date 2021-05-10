@@ -1,0 +1,16 @@
+E:\HD\SENAI\ListaDeExercicios\Ex7\bin\Debug\net5.0\Ex7.exe
+E:\HD\SENAI\ListaDeExercicios\Ex7\bin\Debug\net5.0\Ex7.deps.json
+E:\HD\SENAI\ListaDeExercicios\Ex7\bin\Debug\net5.0\Ex7.runtimeconfig.json
+E:\HD\SENAI\ListaDeExercicios\Ex7\bin\Debug\net5.0\Ex7.runtimeconfig.dev.json
+E:\HD\SENAI\ListaDeExercicios\Ex7\bin\Debug\net5.0\Ex7.dll
+E:\HD\SENAI\ListaDeExercicios\Ex7\bin\Debug\net5.0\ref\Ex7.dll
+E:\HD\SENAI\ListaDeExercicios\Ex7\bin\Debug\net5.0\Ex7.pdb
+E:\HD\SENAI\ListaDeExercicios\Ex7\obj\Debug\net5.0\Ex7.csprojAssemblyReference.cache
+E:\HD\SENAI\ListaDeExercicios\Ex7\obj\Debug\net5.0\Ex7.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI\ListaDeExercicios\Ex7\obj\Debug\net5.0\Ex7.AssemblyInfoInputs.cache
+E:\HD\SENAI\ListaDeExercicios\Ex7\obj\Debug\net5.0\Ex7.AssemblyInfo.cs
+E:\HD\SENAI\ListaDeExercicios\Ex7\obj\Debug\net5.0\Ex7.csproj.CoreCompileInputs.cache
+E:\HD\SENAI\ListaDeExercicios\Ex7\obj\Debug\net5.0\Ex7.dll
+E:\HD\SENAI\ListaDeExercicios\Ex7\obj\Debug\net5.0\ref\Ex7.dll
+E:\HD\SENAI\ListaDeExercicios\Ex7\obj\Debug\net5.0\Ex7.pdb
+E:\HD\SENAI\ListaDeExercicios\Ex7\obj\Debug\net5.0\Ex7.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\HD\SENAI\ListaDeExercicios\Ex4\bin\Debug\net5.0\Ex4.exe
+E:\HD\SENAI\ListaDeExercicios\Ex4\bin\Debug\net5.0\Ex4.deps.json
+E:\HD\SENAI\ListaDeExercicios\Ex4\bin\Debug\net5.0\Ex4.runtimeconfig.json
+E:\HD\SENAI\ListaDeExercicios\Ex4\bin\Debug\net5.0\Ex4.runtimeconfig.dev.json
+E:\HD\SENAI\ListaDeExercicios\Ex4\bin\Debug\net5.0\Ex4.dll
+E:\HD\SENAI\ListaDeExercicios\Ex4\bin\Debug\net5.0\ref\Ex4.dll
+E:\HD\SENAI\ListaDeExercicios\Ex4\bin\Debug\net5.0\Ex4.pdb
+E:\HD\SENAI\ListaDeExercicios\Ex4\obj\Debug\net5.0\Ex4.csprojAssemblyReference.cache
+E:\HD\SENAI\ListaDeExercicios\Ex4\obj\Debug\net5.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI\ListaDeExercicios\Ex4\obj\Debug\net5.0\Ex4.AssemblyInfoInputs.cache
+E:\HD\SENAI\ListaDeExercicios\Ex4\obj\Debug\net5.0\Ex4.AssemblyInfo.cs
+E:\HD\SENAI\ListaDeExercicios\Ex4\obj\Debug\net5.0\Ex4.csproj.CoreCompileInputs.cache
+E:\HD\SENAI\ListaDeExercicios\Ex4\obj\Debug\net5.0\Ex4.dll
+E:\HD\SENAI\ListaDeExercicios\Ex4\obj\Debug\net5.0\ref\Ex4.dll
+E:\HD\SENAI\ListaDeExercicios\Ex4\obj\Debug\net5.0\Ex4.pdb
+E:\HD\SENAI\ListaDeExercicios\Ex4\obj\Debug\net5.0\Ex4.genruntimeconfig.cache
